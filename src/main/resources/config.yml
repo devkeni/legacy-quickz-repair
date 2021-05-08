@@ -1,0 +1,17 @@
+config:
+  fix-cost: 50.0
+  fixall-cost: 500.0
+  permission-fix: "quickzrepair.fix"
+  permission-fixall: "quickzrepair.fixall"
+
+messages:
+  already-fixed: "&cO item na sua mão já foi reparado."
+  invalid-item: "&cO item na sua mão não pode ser reparado."
+  invalid-usage: "&cUso incorreto, utilize /fix [all]."
+  inventory-empty: "&cNão há nenhum item para reparar no seu inventário."
+  players-only: "&cSomente jogadores podem executar esse comando."
+  insufficient-permission: "&cVocê não tem permissão para utilizar esse comando."
+  insufficient-money: "&cVocê precisa ter &7${cost} &cpara reparar seus itens."
+  successful-fix: "&aVocê reparou seu item com sucesso!"
+  successful-fixall: "&aVocê reparou &7{amount} &aitens com sucesso!"
+  all-items-fixed: "&cTodos itens do seu inventário já estão reparados."

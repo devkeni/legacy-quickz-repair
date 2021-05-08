@@ -1,0 +1,10 @@
+name: Quickz-Repair
+description: Repair your tools and armors using commands.
+version: 1.0.0
+author: DevKeni
+depend: [Vault]
+main: com.devkeni.quickzrepair.QuickzRepair
+
+commands:
+  fix:
+    aliases: [qfix, reparar, qreparar]
